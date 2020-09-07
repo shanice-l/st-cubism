@@ -20,7 +20,7 @@ We conduct experiments on NTU *↔* PKU, NTU *↔* kinetics, PKU *↔* kinetics,
 
 ### Methods
 
-We show the code of ST-cubsim in this repo, and our compared methods DANN, JAN, CDAN, TA3N, and GINs.
+We show the code of ST-cubsim in this repo, and our compared methods DANN, JAN, CDAN, TA3N, BSP, and GINs.
 
 ### Paired action categories
 
