@@ -24,8 +24,8 @@ We show the code of ST-cubsim in this repo, and our compared methods MMD, DANN, 
 
 ### Paired action categories
 
-We show The 51 paired action categories between PKU-MMD and NTU RGB+D in *paired_actions.png* .
+We present the 51 paired action categories between PKU-MMD and NTU RGB+D in *paired_actions.png* .
 
 ## Results
 
-The experimental results is shown on *Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition*.
+The experimental results can be referred to *Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition*.
