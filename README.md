@@ -24,7 +24,7 @@ We show the code of ST-cubsim in this repo, and our compared methods DANN, JAN, 
 
 ### Paired action categories
 
-We present the 51 paired action categories between PKU-MMD and NTU RGB+D in *paired_actions.png* .
+We present the 51 paired action categories between PKU-MMD and NTU RGB+D in *[paired_actions.png](https://github.com/shanice-l/st-cubism/blob/master/paied_actions.png)*, and the 12 paired categories between kinetics and NTU RGB+D in *[paired_actions_between_nk.png](https://github.com/shanice-l/st-cubism/blob/master/paired_actions_between_nk.png)*.
 
 ## Results
 
