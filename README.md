@@ -1,6 +1,6 @@
 # ST_Cubsim
 
-*Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition*, Yansong Tang, Xingyu Liu, Xumin Yu, Danyang Zhang, Jiwen Lu and Jie Zhou (in submission)
+*Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition*, Yansong Tang, Xingyu Liu, Xumin Yu, Danyang Zhang, Jiwen Lu and Jie Zhou (accepted by ACM TOMM)
 
 ## Prerequisites
 
