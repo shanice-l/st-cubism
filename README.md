@@ -1,6 +1,8 @@
 # ST_Cubsim
 
-*Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition*, Yansong Tang, Xingyu Liu, Xumin Yu, Danyang Zhang, Jiwen Lu and Jie Zhou (accepted by ACM TOMM)
+This repo provides the PyTorch implementation of the work:
+
+*Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition*, Yansong Tang*, Xingyu Liu*, Xumin Yu, Danyang Zhang, Jiwen Lu &#9993 and Jie Zhou (accepted by ACM TOMM) [[Paper](https://dl.acm.org/doi/10.1145/3472722)]
 
 ## Prerequisites
 
@@ -16,11 +18,11 @@ Our code is based on **Python3.5**. There are a few dependencies to run the code
 
 ### Datasets
 
-We conduct experiments on NTU *↔* PKU, NTU *↔* kinetics, PKU *↔* kinetics, ORGBD *→*MSRDA3D, and NTU *→* SBU.
+We conduct experiments on NTU &harr; PKU, NTU &harr; kinetics, PKU &harr; kinetics, ORGBD &harr; MSRDA3D, and NTU &harr; SBU.
 
 ### Methods
 
-We show the code of ST-cubsim in this repo, and our compared methods DANN, JAN, CDAN, TA3N, BSP, and GINs.
+We show the source code of ST-cubsim in this repo, and the code of our compared methods DANN, JAN, CDAN, TA3N, BSP, and GINs.
 
 ### Paired action categories
 
@@ -29,3 +31,17 @@ We present the 51 paired action categories between PKU-MMD and NTU RGB+D in *[pa
 ## Results
 
 The experimental results can be referred to *Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition*.
+
+## Citation
+
+If you find this repo useful in your research, please consider citing:
+```
+@article{tang_2022_sda,
+author   = {Tang, Yansong and Liu, Xingyu and Yu, Xumin and Zhang, Danyang and Lu, Jiwen and Zhou, Jie},
+title    = {Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-Based Action Recognition},
+year     = {2022},
+journal  = {ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)},
+url      = {https://doi.org/10.1145/3472722},
+doi      = {10.1145/3472722},
+}
+```
