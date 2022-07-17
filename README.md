@@ -2,7 +2,7 @@
 
 This repo provides the PyTorch implementation of the work:
 
-*Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition*, Yansong Tang*, Xingyu Liu*, Xumin Yu, Danyang Zhang, Jiwen Lu &#9993 and Jie Zhou (accepted by ACM TOMM) [[Paper](https://dl.acm.org/doi/10.1145/3472722)]
+*Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition*, Yansong Tang*, Xingyu Liu*, Xumin Yu, Danyang Zhang, Jiwen Lu and Jie Zhou (accepted by ACM TOMM) [[Paper](https://dl.acm.org/doi/10.1145/3472722)]
 
 ## Prerequisites
 
